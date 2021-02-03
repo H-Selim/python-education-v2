@@ -1,0 +1,27 @@
+#Put homework1 on jupyter notebook and run it on the first cell and dothe same thing with homework2 but put it on the second cell I don't kknow how to uploa a jupyter notebook so I am doing it like this
+#homework 1
+"""
+a[0]
+a[1]
+a[2]
+"""
+
+a = [24,56,78]
+i = [42,65,87]
+ia = [24,42,56,65,78,87]
+for i in a:
+    print(ia)
+    
+    #homework2
+    print(input("Please enter n "))
+
+
+
+i = 0
+n = 45
+print(i)
+while i <n:
+    print(i)
+    i+=1
+    
+    
